@@ -1,2 +1,2 @@
 # mm-chat
-A Chat Window created with Node.js
+A Chat Window created for Node.js
